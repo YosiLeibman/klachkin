@@ -4,5 +4,3 @@ the buses from klachkin-node to the university train station according to the Is
 ## wornings:
 I just started working on it - i'll uptade when will be some progress!
 
-## wornings:
-I just started working on it - i'll uptade when will be some progress!
